@@ -22,7 +22,7 @@
 
 # Status
 <p>O projeto está FINALIZADO e foi desenvolvido com base nos conceitos e técnicas aprendidas ao longo das aulas.</p>
-<p>Contudo, algumas melhorias podem ser aplicadas, de maneira a gerar uma lista entre os amigos cadastrados (e não apenas 1 nome), tamebem uma maneira de alternar de que maneira voce gostaria que fosse o resultado do codigo.</p>
+<p>Contudo, algumas melhorias podem ser aplicadas, de maneira a gerar uma lista entre os amigos cadastrados (e não apenas 1 nome), tambem uma maneira de alternar de que maneira voce gostaria que fosse o resultado do codigo.</p>
 
 # Funcionalidades
 ![Image](https://github.com/user-attachments/assets/2d7690fc-fbfa-4cc5-87ae-57a5cc452171)
