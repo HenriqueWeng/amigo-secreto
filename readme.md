@@ -2,7 +2,7 @@
 
 * 📜[Apresentação](#Apresentação)
 * 📝[Descrição do Projeto](#descrição)
-* 🔄[Status do Projeto](#status-do-projeto)
+* 🔄[Status do Projeto](#status)
 * 🛠[Funcionalidades e Demonstração da Aplicação](#funcionalidades)
 * 👥[Cadastrando seus Amigos](#cadastrando)
 * 👨‍💻[Desenvolvimento](#desenvolvimento)
