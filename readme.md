@@ -28,7 +28,7 @@
 ![Image](https://github.com/user-attachments/assets/2d7690fc-fbfa-4cc5-87ae-57a5cc452171)
 <p></p>
 <p>Esta ferramenta possui uma pagina unica (imagem acima), onde temos:</p>
-<p>A: Campo para inserir os nomes das pessoas participantes..</p>
+<p>A: Campo para inserir os nomes das pessoas participantes.</p>
 <p>B: Botão responsável por adicionar o nome informado à lista, caso ainda não tenha sido registrado.</p>
 <p>C: Botão para realizar o sorteio aleatório do amigo secreto. Ao ser clicado, exibe diferentes resultados a cada sorteio.</p>
 <p></p>
