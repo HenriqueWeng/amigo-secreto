@@ -51,9 +51,8 @@
 <p>O repositório contém arquivos relacionados a HTML, CSS e JavaScript.</p>
 
 # Licença
-![Licença 1](assets/AluraOracle.jpg)
-![Licença 2](assets/one.jpg)
-
+![Image](https://github.com/user-attachments/assets/bc8f6217-fedd-48b9-9524-a89e17329ad3)
+![Image](https://github.com/user-attachments/assets/c9ac9a3f-2c47-4821-b470-39e41cd52b5d)
 
 # Conclusão
 <p>Jan/2025</p> 
