@@ -12,7 +12,7 @@
 
 
 # Apresentação
-![Apresentação Resumida](assets/Descrição-Amigo-Secreto.png)
+![Image](https://github.com/user-attachments/assets/f7dd6bc6-36af-4466-8c88-883ebe4adde4)
 
 # Descrição
 <p>Projeto feito em Jan/2025, como forma de aprendizado em programação JavaScript disponibilizado pelo Projeto ONE (Oracle + Alura).</p>
