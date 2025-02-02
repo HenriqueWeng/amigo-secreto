@@ -34,10 +34,10 @@
 <p></p>
 
 # Cadastrando
-![Tela de Cadastro](assets/Adicionar-Nome.jpg)
+![Image](https://github.com/user-attachments/assets/7281ea0f-6b0d-4e51-b778-ae11a92d8370)
 <p></p>
-<p>Utilizando o campo "A" conforme tela anterior, digite/informe um nome e em seguida clique no botão "Adicionar".</p>
-<p>O nome ficara listado abaixo "A".</p>
+<p>Utilizando o campo "A" conforme tela anterior, digite um nome e em seguida clique no botão "Adicionar".</p>
+<p>O nome ficará listado abaixo "A".</p>
 <p></p>
 <p>Ao clicar no botão "Adicionar", o nome será exibido conforme o exemplo abaixo, e o campo será liberado para o próximo nome.</p>
 
