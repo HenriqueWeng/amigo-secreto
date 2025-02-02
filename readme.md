@@ -41,7 +41,7 @@
 <p></p>
 <p>Ao clicar no botão "Adicionar", o nome será exibido conforme o exemplo abaixo, e o campo será liberado para o próximo nome.</p>
 
-![Tela de Cadastro](assets/Nome-Adicionado.jpg)
+![Image](https://github.com/user-attachments/assets/19b0105d-dbe0-4560-8779-9e717f953f6a)
 
 # Desenvolvimento
 <p>Projeto desenvolvido por Henrique Weng (https://github.com/HenriqueWeng).</p>
