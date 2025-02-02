@@ -6,7 +6,7 @@
 * 🛠[Funcionalidades e Demonstração da Aplicação](#funcionalidades)
 * 👥[Cadastrando seus Amigos](#cadastrando)
 * 👨‍💻[Desenvolvimento](#desenvolvimento)
-* 💻[Tecnologias Utilizadas](#tecnologias-utilizadas)
+* 💻[Tecnologias Utilizadas](#tecnologias)
 * 📄[Licença](#licença)
 * 🎯[Conclusão](#conclusão)
 
