@@ -25,7 +25,7 @@
 <p>Contudo, algumas melhorias podem ser aplicadas, de maneira a gerar uma lista entre os amigos cadastrados (e não apenas 1 nome), tamebem uma maneira de alternar de que maneira voce gostaria que fosse o resultado do codigo.</p>
 
 # Funcionalidades
-![Apresentação da Tela](assets/Funcionalidades.png)
+![Image](https://github.com/user-attachments/assets/2d7690fc-fbfa-4cc5-87ae-57a5cc452171)
 <p></p>
 <p>Esta ferramenta possui uma pagina unica (imagem acima), onde temos:</p>
 <p>A: Campo para inserir os nomes das pessoas participantes..</p>
